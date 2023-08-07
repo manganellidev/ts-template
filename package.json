@@ -1,7 +1,7 @@
 {
-    "name": "task-manager-api-ts",
+    "name": "ts-template",
     "version": "1.0.0",
-    "description": "",
+    "description": "A TypeScript template app with Eslint, Prettier, Husky, Dotenv, Nodemon, and Jest",
     "main": "index.js",
     "scripts": {
         "clean": "rimraf dist/",
