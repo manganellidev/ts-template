@@ -1,2 +1,3 @@
-console.log('TS here we go!');
-console.log(process.env.PORT);
+import main from './main/main.js';
+
+console.log(main());

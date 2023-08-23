@@ -1,3 +1,11 @@
 # ts-template
 
-A TypeScript template app with Eslint, Prettier, Husky, Dotenv, Nodemon, and Jest
+A TypeScript ESM template app with:
+
+- Eslint
+- Prettier
+- Husky
+- Dotenv
+- Nodemon
+- Jest
+- Dockerfile
